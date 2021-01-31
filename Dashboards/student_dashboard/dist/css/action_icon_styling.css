@@ -1,0 +1,35 @@
+ /*
+    Individual Icon styling
+     */
+    .view_job_icon{
+      color: green;
+    }
+    .apply_icon{
+      color: navy;
+    }
+    .view_company_icon{
+      color: maroon;
+    }
+    .view_application_icon{
+      color: orange;
+    }
+
+    .apply_icon{
+      color: navy;
+    }
+     .view_mark_icon{
+      color: darkkhaki;
+    }
+    .edit_mark_icon{
+      color: gold;
+    }
+    .view_application_stats_icon{
+      color:teal;
+    }
+    /*
+    General Icon Styling
+     */
+    .action_icon:hover{
+      color: grey;
+    }
+  

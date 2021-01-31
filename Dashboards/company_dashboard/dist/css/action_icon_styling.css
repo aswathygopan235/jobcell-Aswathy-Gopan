@@ -1,0 +1,23 @@
+.action_icon:hover{
+	color: gray;
+}
+
+.job_profile_icon{
+	color: peru;
+}
+.delete_job_icon{
+	color: red;
+}
+.view_job_icon{
+	color: green;
+}
+.view_application_icon{
+	color: rosybrown;
+}
+.application_stat_icon{
+	color:coral;
+}
+.edit_job_icon{
+	color: gold;
+}
+

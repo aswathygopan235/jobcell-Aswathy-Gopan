@@ -1,0 +1,19 @@
+.action_icon:hover{
+	color: gray;
+}
+.view_job_icon{
+	color:orange; 
+}
+.view_student_icon{
+	color: purple;
+}
+.view_course_icon{
+	color: olive
+
+}
+.view_application_icon{
+	color: midnightblue;
+}
+.view_company_icon{
+	color: maroon;
+}

@@ -1,0 +1,9 @@
+AdminLTE dashboard form github.com
+
+Landing page from https://startbootstrap.github.io/startbootstrap-creative/
+
+Photo by travis blessing from Pexels:https://www.pexels.com/photo/calm-body-of-water-1363876/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels
+
+Photo by Hristo Fidanov from Pexels:https://images.pexels.com/photos/1252869/pexels-photo-1252869.jpeg?cs=srgb&dl=pexels-hristo-fidanov-1252869.jpg&fm=jpg
+
+Photo from Pixabay
